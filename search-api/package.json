@@ -1,0 +1,24 @@
+{
+  "name": "search-api",
+  "version": "1.0.0",
+  "description": "A proof of concept for a search API that allows users to find manufacturers based on location, nature of business, and manufacturing processes using Spring Boot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "API",
+    "manufacturers",
+    "Spring",
+    "Boot",
+    "proof",
+    "of",
+    "concept"
+  ],
+  "author": "Nilanshu Bhandare",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
